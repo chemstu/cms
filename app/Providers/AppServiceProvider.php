@@ -14,7 +14,8 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        Schema::defaultStringLength(191);
+        Schema::defaultStringLength(191);  /*解决数据无法迁移问题，5.7.7以上没有改问题*/
+        \Carbon\Carbon::setLocale('zh'); /*中文显示时间错*/
     }
 
     /**

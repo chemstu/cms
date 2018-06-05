@@ -1,0 +1,29 @@
+[33mcommit 5cf9b9260c3e701aa7969a4bc85a3aa1b4664d40[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Tue Jun 5 20:41:30 2018 +0800
+
+    Adjust configuration
+
+[33mcommit f22f76e41f37fc8ae929fc4d31fba088aa844057[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 4 21:57:03 2018 +0800
+
+    20180604
+
+[33mcommit f595010706dbc2b7c50c15aae0e830b6741719ca[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 4 21:33:20 2018 +0800
+
+    delete google font
+
+[33mcommit a2661398804f179ea23558cfa815baf1105b4eee[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 4 21:28:47 2018 +0800
+
+    delete google font
+
+[33mcommit 68442ff3ca7676252cf8333e00479efcac73813e[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 4 21:22:50 2018 +0800
+
+    initial commit

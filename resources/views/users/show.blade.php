@@ -35,7 +35,7 @@
             </div>
             <hr>
 
-            { {{-- 用户发布的内容 --}}
+            {{-- 用户发布的内容 --}}
             <div class="panel panel-default">
                 <div class="panel-body">
                     <ul class="nav nav-tabs">

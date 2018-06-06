@@ -16,6 +16,7 @@ class AppServiceProvider extends ServiceProvider
     {
         Schema::defaultStringLength(191);  /*解决数据无法迁移问题，5.7.7以上没有改问题*/
         \Carbon\Carbon::setLocale('zh'); /*中文显示时间错*/
+        \App\Models\Topic::observe(\App\Observers\TopicObserver::class);//原來的教程是錯誤的，必須加這計
     }
 
     /**
